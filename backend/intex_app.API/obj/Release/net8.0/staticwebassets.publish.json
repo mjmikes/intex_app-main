@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NOnyHMiXDW3B4ZIlrxFKqnwyNafNfS3RmRsVfQy/Io0=",
+  "Source": "intex_app.API",
+  "BasePath": "_content/intex_app.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
