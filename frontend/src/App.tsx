@@ -12,6 +12,7 @@ import { AuthProvider } from './components/context/AuthContext'
 import AccountPage from './pages/AccountPage'
 import ShopPage from './pages/ShopPage'
 import AdminAccountPage from './pages/admin/AdminAccountPage'
+import PrivacyPage from './pages/PrivacyPage'
 
 
 function App() {
@@ -21,12 +22,27 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/shop" element={<ShopPage />} />
+          <Route path="/privacy" element={<PrivacyPage />} />
           <Route path="/Login" element={<LoginPage />} />
           <Route path="/Join" element={<JoinPage />} />
-          <Route path="/account" element={<ProtectedRoute><AccountPage /></ProtectedRoute>} />
+          <Route
+            path="/account"
+            element={
+              <ProtectedRoute>
+                <AccountPage />
+              </ProtectedRoute>
+            }
+          />
 
           {/* Protected Routes */}
-          <Route path="/admin" element={<ProtectedRoute><AdminLayout /></ProtectedRoute>}>
+          <Route
+            path="/admin"
+            element={
+              <ProtectedRoute>
+                <AdminLayout />
+              </ProtectedRoute>
+            }
+          >
             <Route index element={<AdminHomePage />} />
             <Route path="site" element={<ManageSitePage />} />
             <Route path="users" element={<ManageUsersPage />} />
