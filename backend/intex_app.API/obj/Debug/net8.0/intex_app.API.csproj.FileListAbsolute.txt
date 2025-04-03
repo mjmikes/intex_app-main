@@ -604,3 +604,10 @@
 /Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/obj/Debug/net8.0/ref/intex_app.API.dll
 /Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/Db.sqlite
 /Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/Identity.sqlite
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/intex_app.API.staticwebassets.endpoints.json
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/publish/publish/intex_app.API.deps.json
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/bin/Debug/net8.0/publish/publish/publish/publish/publish/publish/publish/publish/intex_app.API.runtimeconfig.json
+/Users/mjmikes/Downloads/Classes/INTEX2/intex_app-main/backend/intex_app.API/obj/Debug/net8.0/intex_app.API.sourcelink.json

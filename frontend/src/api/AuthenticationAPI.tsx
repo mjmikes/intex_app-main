@@ -1,7 +1,7 @@
 import User from "../types/User";
 
 const API_URL = 'https://localhost:5000';
-//const API_URL = 'https://intex-app-backend.azurewebsites.net/Identity';
+// const API_URL = 'https://intex-app-backend.azurewebsites.net';
 
 
 export const register = async (email: string, password: string): Promise<void> => {
